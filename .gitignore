@@ -1,2 +1,5 @@
 .idea/
 venv/
+Tool/__pycache__/__init__.cpython-39.pyc
+Tool/__pycache__/origin_func.cpython-39.pyc
+
